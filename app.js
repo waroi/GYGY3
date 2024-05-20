@@ -1,2 +1,2 @@
 console.log("Merhaba");
-console.log("sevval");
+console.log("Sevval");
