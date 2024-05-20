@@ -1,3 +1,6 @@
+console.log('Merhaba')
+console.log('Sevval')
+console.log('Onur')
 console.log("Merhaba");
 console.log("Sevval");
 console.log("Aleyna");
