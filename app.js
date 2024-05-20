@@ -3,6 +3,7 @@ console.log('Sevval')
 console.log('Onur')
 console.log("Merhaba");
 console.log("Sevval");
+console.log("Mert");
 console.log("Erkan");
 console.log("Ecem");
 console.log("Egemen");
