@@ -1,2 +1,3 @@
-console.log("Merhaba");
-console.log("Sevval");
+console.log('Merhaba')
+console.log('Sevval')
+console.log('Onur')
